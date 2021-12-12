@@ -14,4 +14,12 @@ path = "src/solutions/one_a.rs"
 name = "one_b"
 path = "src/solutions/one_b.rs"
 
+[[bin]]
+name = "two_a"
+path = "src/solutions/two_a.rs"
+
+[[bin]]
+name = "two_b"
+path = "src/solutions/two_b.rs"
+
 [dependencies]
