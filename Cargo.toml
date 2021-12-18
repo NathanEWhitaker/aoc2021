@@ -38,4 +38,12 @@ path = "src/solutions/four_a.rs"
 name = "four_b"
 path = "src/solutions/four_b.rs"
 
+[[bin]]
+name = "five_a"
+path = "src/solutions/five_a.rs"
+
+[[bin]]
+name = "five_b"
+path = "src/solutions/five_b.rs"
+
 [dependencies]
