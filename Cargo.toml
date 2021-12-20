@@ -54,4 +54,20 @@ path = "src/solutions/six_a.rs"
 name = "six_b"
 path = "src/solutions/six_b.rs"
 
+[[bin]]
+name = "seven_a"
+path = "src/solutions/seven_a.rs"
+
+[[bin]]
+name = "seven_b"
+path = "src/solutions/seven_b.rs"
+
+[[bin]]
+name = "eight_a"
+path = "src/solutions/eight_a.rs"
+
+[[bin]]
+name = "eight_b"
+path = "src/solutions/eight_b.rs"
+
 [dependencies]
