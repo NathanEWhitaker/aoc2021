@@ -78,4 +78,12 @@ path = "src/solutions/nine_a.rs"
 name = "nine_b"
 path = "src/solutions/nine_b.rs"
 
+[[bin]]
+name = "ten_a"
+path = "src/solutions/ten_a.rs"
+
+[[bin]]
+name = "ten_b"
+path = "src/solutions/ten_b.rs"
+
 [dependencies]
